@@ -44,7 +44,7 @@ e  区间分组 最少可分成几组使组内无交                            
 
             不合法状态设置为                                   openjudge例题
 
-求   min            +∞            不超过 j     dpij=0
+     min            +∞            不超过 j     dpij=0
 
      max            -∞            恰好为 j     dpj0=0    -∞     健身房
      
